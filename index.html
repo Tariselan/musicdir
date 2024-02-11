@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Browser</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <header>
+        <h1>Music Browser</h1>
+    </header>
+    <div class="container">
+        <div class="block select">
+        <h2>Select</h2>
+        <hr>
+        <div class="select-item">
+            <label for="artists">Choose Artist:</label>
+            <select name="artists" id="artists"></select>
+        </div>
+        <div class="select-item">
+            <label for="albums">Choose Album:</label>
+            <select name="albums" id="albums"></select>
+        </div>
+        <div class="select-item">
+            <label for="songs">Choose Song:</label>
+            <select name="songs" id="songs"></select>
+        </div>
+        </div>
+        <div class="block display" id="display">
+        <h2>Song</h2>
+        <hr>
+        <div class="song-container">
+            <div class="album">
+            <img src="album_cover.jpg" alt="Album Cover">
+            <p class="label">Album Name</p>
+            <p class="label">Song Name</p>
+            </div>
+            <div class="separator"></div>
+            <div class="info">
+            <p>Artist Name</p>
+            <p>Description of the Song</p>
+            <p>Song Length</p>
+            </div>
+        </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Leilani - All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+    </body>
+</html>

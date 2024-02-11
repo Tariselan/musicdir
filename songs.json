@@ -1,0 +1,283 @@
+[
+    {
+      "artist": "Jacob Collier",
+      "albums": [
+        {
+          "name": "Djesse Vol. 1",
+          "songs": [
+            {
+              "name": "Home IS",
+              "description": "Intro track",
+              "length": "5:45"
+            },
+            {
+              "name": "Overture",
+              "description": "Track 2",
+              "length": "2:54"
+            },
+            {
+              "name": "With the Love in My Heart",
+              "description": "Track 3",
+              "length": "4:10"
+            },
+            {
+              "name": "Make Me Cry",
+              "description": "Track 4",
+              "length": "3:45"
+            },
+            {
+              "name": "Moon River",
+              "description": "Track 5",
+              "length": "4:30"
+            },
+            {
+              "name": "Feel",
+              "description": "Track 6",
+              "length": "3:55"
+            },
+            {
+              "name": "Ocean Wide, Canyon Deep",
+              "description": "Track 7",
+              "length": "6:20"
+            },
+            {
+              "name": "Every Little Thing She Does Is Magic",
+              "description": "Track 8",
+              "length": "5:10"
+            },
+            {
+              "name": "Once You",
+              "description": "Track 9",
+              "length": "7:00"
+            }
+          ]
+        },
+        {
+          "name": "Djesse Vol. 2",
+          "songs": [
+            {
+              "name": "Home Is",
+              "description": "Intro track",
+              "length": "2:00"
+            },
+            {
+              "name": "Overture",
+              "description": "Track 2",
+              "length": "4:30"
+            },
+            {
+              "name": "Running Outta Love",
+              "description": "Track 3",
+              "length": "3:40"
+            },
+            {
+              "name": "Time Alone With You",
+              "description": "Track 4",
+              "length": "4:15"
+            },
+            {
+              "name": "He Won't Hold You",
+              "description": "Track 5",
+              "length": "3:55"
+            },
+            {
+              "name": "All I Need",
+              "description": "Track 6",
+              "length": "5:20"
+            },
+            {
+              "name": "In My Bones",
+              "description": "Track 7",
+              "length": "4:45"
+            },
+            {
+              "name": "Butterflies",
+              "description": "Track 8",
+              "length": "4:10"
+            },
+            {
+              "name": "Sleeping On My Dreams",
+              "description": "Track 9",
+              "length": "6:30"
+            },
+            {
+              "name": "Running Outta Love (Reprise)",
+              "description": "Track 10",
+              "length": "1:30"
+            },
+            {
+              "name": "Light It Up On Me",
+              "description": "Track 11",
+              "length": "4:55"
+            },
+            {
+              "name": "He Won't Hold You (Reprise)",
+              "description": "Track 12",
+              "length": "2:00"
+            },
+            {
+              "name": "To Sleep",
+              "description": "Track 13",
+              "length": "3:20"
+            },
+            {
+              "name": "To Sleep (Reprise)",
+              "description": "Track 14",
+              "length": "2:40"
+            },
+            {
+              "name": "All Night Long",
+              "description": "Track 15",
+              "length": "3:45"
+            },
+            {
+              "name": "Saviour",
+              "description": "Track 16",
+              "length": "5:10"
+            }
+          ]
+        },
+        {
+          "name": "Djesse Vol. 3",
+          "songs": [
+            {
+              "name": "Time Alone With You",
+              "description": "Intro track",
+              "length": "2:15"
+            },
+            {
+              "name": "All I Need",
+              "description": "Track 2",
+              "length": "3:55"
+            },
+            {
+              "name": "In My Bones",
+              "description": "Track 3",
+              "length": "4:30"
+            },
+            {
+              "name": "Time To Rest Your Weary Head",
+              "description": "Track 4",
+              "length": "5:10"
+            },
+            {
+              "name": "He Won't Hold You",
+              "description": "Track 5",
+              "length": "4:00"
+            },
+            {
+              "name": "Here Comes The Sun",
+              "description": "Track 6",
+              "length": "4:45"
+            },
+            {
+              "name": "Dun Dun Ba Ba",
+              "description": "Track 7",
+              "length": "3:20"
+            },
+            {
+              "name": "Stranger",
+              "description": "Track 8",
+              "length": "5:00"
+            },
+            {
+              "name": "To Sleep",
+              "description": "Track 9",
+              "length": "2:30"
+            },
+            {
+              "name": "To Sleep (Reprise)",
+              "description": "Track 10",
+              "length": "3:10"
+            },
+            {
+              "name": "Outro",
+              "description": "Track 11",
+              "length": "4:00"
+            },
+            {
+              "name": "Sleeping On My Dreams",
+              "description": "Track 12",
+              "length": "6:45"
+            },
+            {
+              "name": "Light It Up On Me",
+              "description": "Track 13",
+              "length": "4:20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "artist": "Laufey",
+        "albums": [
+          {
+            "name": "Typical of Me",
+            "songs": [
+              {
+                "name": "Street by Street",
+                "description": "Track 1",
+                "length": "3:45"
+              },
+              {
+                "name": "I Wish You Love",
+                "description": "Track 2",
+                "length": "4:20"
+              },
+              {
+                "name": "Let You Break My Heart Again",
+                "description": "Track 3",
+                "length": "2:50"
+              },
+              {
+                "name": "Best Friend's Basement",
+                "description": "Track 4",
+                "length": "3:15"
+              },
+              {
+                "name": "Once in a While",
+                "description": "Track 5",
+                "length": "4:10"
+              },
+              {
+                "name": "Someone New",
+                "description": "Track 6",
+                "length": "3:30"
+              }
+            ]
+          },
+          {
+            "name": "Laufey EP",
+            "songs": [
+              {
+                "name": "Street by Street (Intro)",
+                "description": "Intro track",
+                "length": "1:30"
+              },
+              {
+                "name": "I Wish You Love",
+                "description": "Track 2",
+                "length": "4:00"
+              },
+              {
+                "name": "Let You Break My Heart Again",
+                "description": "Track 3",
+                "length": "3:20"
+              },
+              {
+                "name": "Best Friend's Basement",
+                "description": "Track 4",
+                "length": "2:45"
+              },
+              {
+                "name": "Once in a While",
+                "description": "Track 5",
+                "length": "4:30"
+              }
+            ]
+          }
+        ]
+    }
+]
+  
