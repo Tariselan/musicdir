@@ -1,0 +1,258 @@
+[
+    {
+      "artist": "Jacob Collier",
+      "albums": [
+        {
+          "name": "Djesse Vol. 1",
+          "songs": [
+            {
+              "name": "Home Is",
+              "description": "Intro track",
+              "length": "5:45"
+            },
+            {
+              "name": "Overture",
+              "description": "Track 2",
+              "length": "2:54"
+            },
+            {
+              "name": "With the Love in My Heart",
+              "description": "Track 3",
+              "length": "6:48"
+            },
+            {
+              "name": "Ocean Wide, Canyon Deep",
+              "description": "Track 4",
+              "length": "5:19"
+            },
+            {
+              "name": "Djesse",
+              "description": "Track 5",
+              "length": "4:36"
+            },
+            {
+              "name": "Everlasting Motion",
+              "description": "Track 6",
+              "length": "6:33"
+            },
+            {
+              "name": "Every Little Thing She Does Is Magic",
+              "description": "Track 7",
+              "length": "4:38"
+            },
+            {
+              "name": "Once You",
+              "description": "Track 8",
+              "length": "9:24"
+            },
+            {
+              "name": "All Night Long",
+              "description": "Track 9",
+              "length": "7:19"
+            }
+          ]
+        },
+        {
+          "name": "Djesse Vol. 2",
+          "songs": [
+            {
+              "name": "Intro",
+              "description": "Intro track",
+              "length": "1:27"
+            },
+            {
+              "name": "Sky Above",
+              "description": "Track 2",
+              "length": "4:11"
+            },
+            {
+              "name": "Bakumbe",
+              "description": "Track 3",
+              "length": "4:09"
+            },
+            {
+              "name": "Make Me Cry",
+              "description": "Track 4",
+              "length": "3:52"
+            },
+            {
+              "name": "Moon River",
+              "description": "Track 5",
+              "length": "8:17"
+            },
+            {
+              "name": "Feel",
+              "description": "Track 6",
+              "length": "6:30"
+            },
+            {
+              "name": "À Noite",
+              "description": "Track 7",
+              "length": "2:24"
+            },
+            {
+              "name": "Lua",
+              "description": "Track 8",
+              "length": "7:02"
+            },
+            {
+              "name": "I Heard You Singing",
+              "description": "Track 9",
+              "length": "4:51"
+            },
+            {
+              "name": "It Don't Matter",
+              "description": "Track 10",
+              "length": "4:21"
+            },
+            {
+              "name": "Here Comes the Sun",
+              "description": "Track 11",
+              "length": "3:58"
+            },
+            {
+              "name": "Dun Dun Ba Ba",
+              "description": "Track 12",
+              "length": "1:55"
+            },
+            {
+              "name": "Nebaluyo",
+              "description": "Track 13",
+              "length": "5:17"
+            },
+            {
+              "name": "Do You Feel Love",
+              "description": "Track 14",
+              "length": "3:33"
+            },
+            {
+              "name": "Outro",
+              "description": "Track 15",
+              "length": "2:46"
+            },
+            {
+              "name": "Time To Rest Your Weary Head",
+              "description": "Track 16",
+              "length": "6:09"
+            }
+          ]
+        },
+        {
+          "name": "Djesse Vol. 3",
+          "songs": [
+            {
+              "name": "CLARITY",
+              "description": "Intro track",
+              "length": "0:51"
+            },
+            {
+              "name": "Count the People",
+              "description": "Track 2",
+              "length": "2:47"
+            },
+            {
+              "name": "In My Bones",
+              "description": "Track 3",
+              "length": "4:09"
+            },
+            {
+              "name": "Time Alone with You",
+              "description": "Track 4",
+              "length": "4:16"
+            },
+            {
+              "name": "All I Need",
+              "description": "Track 5",
+              "length": "4:05"
+            },
+            {
+              "name": "In Too Deep",
+              "description": "Track 6",
+              "length": "3:52"
+            },
+            {
+              "name": "Butterflies",
+              "description": "Track 7",
+              "length": "2:02"
+            },
+            {
+              "name": "Sleeping On My Dreams",
+              "description": "Track 8",
+              "length": "4:16"
+            },
+            {
+              "name": "Running Outta Love",
+              "description": "Track 9",
+              "length": "4:25"
+            },
+            {
+              "name": "Light It Up on Me",
+              "description": "Track 10",
+              "length": "2:05"
+            },
+            {
+              "name": "He Won't Hold You",
+              "description": "Track 11",
+              "length": "5:00"
+            },
+            {
+              "name": "To Sleep",
+              "description": "Track 12",
+              "length": "3:12"
+            },
+            {
+              "name": "In Too Deep (acoustic)",
+              "description": "Track 13",
+              "length": "3:25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "artist": "Laufey",
+        "albums": [
+            {
+                "name": "Typical of Me",
+                "songs": [
+                    {
+                        "name": "Street by Street",
+                        "description": "Track 1",
+                        "length": "3:44"
+                    },
+                    {
+                        "name": "Magnolia",
+                        "description": "Track 2",
+                        "length": "3:00"
+                    },
+                    {
+                        "name": "Like the Movies",
+                        "description": "Track 3",
+                        "length": "2:42"
+                    },
+                    {
+                        "name": "I Wish You Love",
+                        "description": "Track 4",
+                        "length": "2:35"
+                    },
+                    {
+                        "name": "James",
+                        "description": "Track 5",
+                        "length": "2:55"
+                    },
+                    {
+                        "name": "Someone New",
+                        "description": "Track 6",
+                        "length": "3:18"
+                    },
+                    {
+                        "name": "Best Friend",
+                        "description": "Track 7",
+                        "length": "2:44"
+                    }
+                ]
+            }
+        ]
+    }
+]
+  
