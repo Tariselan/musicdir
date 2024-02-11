@@ -112,6 +112,11 @@ hr {
     justify-content: space-between;
 }
 
+.album-cover {
+    width: 100px;
+    height: 100px;
+}
+
 .album,
 .song,
 .info {

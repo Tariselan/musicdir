@@ -34,18 +34,24 @@
         <hr>
         <div class="song-container">
             <div class="album">
-            <img src="album_cover.jpg" alt="Album Cover">
-            <p class="label">Album Name</p>
-            <p class="label">Song Name</p>
+                <img src="album_cover.jpg" alt="Album Cover" class="album-cover">
+                <p class="label">Album Name</p>
+                <p class="label">Song Name</p>
             </div>
             <div class="separator"></div>
             <div class="info">
-            <p>Artist Name</p>
-            <p>Description of the Song</p>
-            <p>Song Length</p>
+                <p>Artist Name</p>
+                <p>Description of the Song</p>
+                <p>Song Length</p>
+            </div>
+            <div class="audio-player">
+                <audio controls id="audio-player">
+                    <source src="${selectedSong.audio}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
             </div>
         </div>
-        </div>
+    </div>
     </div>
     <footer>
         <p>&copy; 2024 Leilani - All rights reserved.</p>

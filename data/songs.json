@@ -3,12 +3,13 @@
       "artist": "Jacob Collier",
       "albums": [
         {
-          "name": "Djesse Vol. 1",
+          "name": "Djesse Vol.1",
           "songs": [
             {
               "name": "Home Is",
               "description": "Intro track",
-              "length": "5:45"
+              "length": "5:45",
+              "audio": "home_is.mp3"
             },
             {
               "name": "Overture",
@@ -53,7 +54,7 @@
           ]
         },
         {
-          "name": "Djesse Vol. 2",
+          "name": "Djesse Vol.2",
           "songs": [
             {
               "name": "Intro",
@@ -138,7 +139,7 @@
           ]
         },
         {
-          "name": "Djesse Vol. 3",
+          "name": "Djesse Vol.3",
           "songs": [
             {
               "name": "CLARITY",
